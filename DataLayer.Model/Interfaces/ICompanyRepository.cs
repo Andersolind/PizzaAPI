@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,8 +10,13 @@ namespace DataAccessLayer.Model.Interfaces
 {
     public interface ICompanyRepository
     {
-        IEnumerable<Company> GetAll();
-        Company GetByCode(string companyCode);
-        bool SaveCompany(Company company);
+        Task<IEnumerable<Company>> GetAllAsync();  // Asynchronous method for getting all companies
+        Task<IEnumerable<Company>> GetByCodeAsync(string companyCode);  // Asynchronous method for getting companies by code
+        Task<bool> SaveCompanyAsync(Company company);  // Asynchronous method for saving a company
+
+        Task<bool> DeleteCompanyAsync(int id);
+
+        Task<bool> UpdateCompanyAsync(int id);
+    
     }
 }

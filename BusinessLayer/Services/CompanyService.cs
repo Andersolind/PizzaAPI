@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using AutoMapper;
 using BusinessLayer.Model.Models;
 using DataAccessLayer.Model.Interfaces;
+using DataAccessLayer.Model.Models;
+using System.IO;
+using System.Threading.Tasks;
 
 namespace BusinessLayer.Services
 {
@@ -16,16 +19,47 @@ namespace BusinessLayer.Services
             _companyRepository = companyRepository;
             _mapper = mapper;
         }
-        public IEnumerable<CompanyInfo> GetAllCompanies()
+        public async Task<IEnumerable<CompanyInfo>> GetAllCompaniesAsync()
         {
-            var res = _companyRepository.GetAll();
-            return _mapper.Map<IEnumerable<CompanyInfo>>(res);
+            // Await the result of GetAllAsync, which returns Task<IEnumerable<Company>>
+            var companies = await _companyRepository.GetAllAsync();
+
+            // Map the result to IEnumerable<CompanyInfo>
+            return _mapper.Map<IEnumerable<CompanyInfo>>(companies);
         }
 
-        public CompanyInfo GetCompanyByCode(string companyCode)
+        public async Task<Company> GetCompanyByCodeAsync(string companyCode)
         {
-            var result = _companyRepository.GetByCode(companyCode);
-            return _mapper.Map<CompanyInfo>(result);
+            // Assuming GetByCodeAsync is implemented in the repository
+            var result = await _companyRepository.GetByCodeAsync(companyCode);
+            return _mapper.Map<Company>(result);
+        }
+
+        public async Task<bool> DeleteCompanyAsync(int id)
+        {
+            bool entity = await _companyRepository.DeleteCompanyAsync(id);
+
+            return true;
+        }
+
+        public async Task<bool> SaveCompanyAsync(Company company)
+        {
+            // Wrap the synchronous SaveCompany in a Task to avoid blocking.
+            return await Task.Run(() =>
+            {
+                var isSuccessful = _companyRepository.SaveCompanyAsync(company);
+                return isSuccessful;
+            });
+        }
+
+        public async Task<bool> UpdateCompanyAsync(int id)
+        {
+            // Wrap the synchronous SaveCompany in a Task to avoid blocking.
+            return await Task.Run(() =>
+            {
+                var isSuccessful = _companyRepository.UpdateCompanyAsync(id);  
+                return isSuccessful;
+            });
         }
     }
 }

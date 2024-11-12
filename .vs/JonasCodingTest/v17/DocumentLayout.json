@@ -1,0 +1,481 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anders\\source\\repos\\PizzaAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{643E46FE-7BBA-4B04-B52D-581D135574A8}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\Anders\\source\\repos\\PizzaAPI\\businesslayer\\services\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643E46FE-7BBA-4B04-B52D-581D135574A8}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\services\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71013A3B-8D62-483A-AD6B-0FF1A9781CA6}|BusinessLayer.Model\\BusinessLayer.Model.csproj|C:\\Users\\Anders\\source\\repos\\PizzaAPI\\businesslayer.model\\interfaces\\icompanyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71013A3B-8D62-483A-AD6B-0FF1A9781CA6}|BusinessLayer.Model\\BusinessLayer.Model.csproj|solutionrelative:businesslayer.model\\interfaces\\icompanyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2FD50A5-7EA4-4E04-A83C-6ADE79183BEF}|DataAccessLayer\\DataAccessLayer.csproj|C:\\Users\\Anders\\source\\repos\\PizzaAPI\\dataaccesslayer\\database\\inmemorydatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2FD50A5-7EA4-4E04-A83C-6ADE79183BEF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\database\\inmemorydatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44867C7E-02D8-40A2-B2C4-0463F31B945E}|DataLayer.Model\\DataAccessLayer.Model.csproj|C:\\Users\\Anders\\source\\repos\\PizzaAPI\\datalayer.model\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44867C7E-02D8-40A2-B2C4-0463F31B945E}|DataLayer.Model\\DataAccessLayer.Model.csproj|solutionrelative:datalayer.model\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44867C7E-02D8-40A2-B2C4-0463F31B945E}|DataLayer.Model\\DataAccessLayer.Model.csproj|C:\\Users\\Anders\\source\\repos\\PizzaAPI\\datalayer.model\\interfaces\\icompanyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44867C7E-02D8-40A2-B2C4-0463F31B945E}|DataLayer.Model\\DataAccessLayer.Model.csproj|solutionrelative:datalayer.model\\interfaces\\icompanyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71013A3B-8D62-483A-AD6B-0FF1A9781CA6}|BusinessLayer.Model\\BusinessLayer.Model.csproj|C:\\Users\\Anders\\source\\repos\\PizzaAPI\\businesslayer.model\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71013A3B-8D62-483A-AD6B-0FF1A9781CA6}|BusinessLayer.Model\\BusinessLayer.Model.csproj|solutionrelative:businesslayer.model\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44867C7E-02D8-40A2-B2C4-0463F31B945E}|DataLayer.Model\\DataAccessLayer.Model.csproj|C:\\Users\\Anders\\source\\repos\\PizzaAPI\\datalayer.model\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44867C7E-02D8-40A2-B2C4-0463F31B945E}|DataLayer.Model\\DataAccessLayer.Model.csproj|solutionrelative:datalayer.model\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643E46FE-7BBA-4B04-B52D-581D135574A8}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\Anders\\source\\repos\\PizzaAPI\\businesslayer\\businessprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643E46FE-7BBA-4B04-B52D-581D135574A8}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\businessprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44867C7E-02D8-40A2-B2C4-0463F31B945E}|DataLayer.Model\\DataAccessLayer.Model.csproj|C:\\Users\\Anders\\source\\repos\\PizzaAPI\\datalayer.model\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44867C7E-02D8-40A2-B2C4-0463F31B945E}|DataLayer.Model\\DataAccessLayer.Model.csproj|solutionrelative:datalayer.model\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44867C7E-02D8-40A2-B2C4-0463F31B945E}|DataLayer.Model\\DataAccessLayer.Model.csproj|C:\\Users\\Anders\\source\\repos\\PizzaAPI\\datalayer.model\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{44867C7E-02D8-40A2-B2C4-0463F31B945E}|DataLayer.Model\\DataAccessLayer.Model.csproj|solutionrelative:datalayer.model\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C79AC6-1500-4088-A223-1ACBF93EBF7A}|WebApi\\WebApi.csproj|C:\\Users\\Anders\\source\\repos\\PizzaAPI\\webapi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{81C79AC6-1500-4088-A223-1ACBF93EBF7A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C79AC6-1500-4088-A223-1ACBF93EBF7A}|WebApi\\WebApi.csproj|C:\\Users\\Anders\\source\\repos\\PizzaAPI\\webapi\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C79AC6-1500-4088-A223-1ACBF93EBF7A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C79AC6-1500-4088-A223-1ACBF93EBF7A}|WebApi\\WebApi.csproj|C:\\Users\\Anders\\source\\repos\\PizzaAPI\\webapi\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C79AC6-1500-4088-A223-1ACBF93EBF7A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C79AC6-1500-4088-A223-1ACBF93EBF7A}|WebApi\\WebApi.csproj|C:\\Users\\Anders\\source\\repos\\PizzaAPI\\webapi\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{81C79AC6-1500-4088-A223-1ACBF93EBF7A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C79AC6-1500-4088-A223-1ACBF93EBF7A}|WebApi\\WebApi.csproj|C:\\Users\\Anders\\source\\repos\\PizzaAPI\\webapi\\app_start\\ninjectwebcommon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C79AC6-1500-4088-A223-1ACBF93EBF7A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\app_start\\ninjectwebcommon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2FD50A5-7EA4-4E04-A83C-6ADE79183BEF}|DataAccessLayer\\DataAccessLayer.csproj|C:\\Users\\Anders\\source\\repos\\PizzaAPI\\dataaccesslayer\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C2FD50A5-7EA4-4E04-A83C-6ADE79183BEF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2FD50A5-7EA4-4E04-A83C-6ADE79183BEF}|DataAccessLayer\\DataAccessLayer.csproj|C:\\Users\\Anders\\source\\repos\\PizzaAPI\\dataaccesslayer\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C2FD50A5-7EA4-4E04-A83C-6ADE79183BEF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C79AC6-1500-4088-A223-1ACBF93EBF7A}|WebApi\\WebApi.csproj|C:\\Users\\Anders\\source\\repos\\PizzaAPI\\webapi\\app_start\\appservicesprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C79AC6-1500-4088-A223-1ACBF93EBF7A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\app_start\\appservicesprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44867C7E-02D8-40A2-B2C4-0463F31B945E}|DataLayer.Model\\DataAccessLayer.Model.csproj|C:\\Users\\Anders\\source\\repos\\PizzaAPI\\datalayer.model\\models\\dataentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44867C7E-02D8-40A2-B2C4-0463F31B945E}|DataLayer.Model\\DataAccessLayer.Model.csproj|solutionrelative:datalayer.model\\models\\dataentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71013A3B-8D62-483A-AD6B-0FF1A9781CA6}|BusinessLayer.Model\\BusinessLayer.Model.csproj|C:\\Users\\Anders\\source\\repos\\PizzaAPI\\businesslayer.model\\models\\companyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71013A3B-8D62-483A-AD6B-0FF1A9781CA6}|BusinessLayer.Model\\BusinessLayer.Model.csproj|solutionrelative:businesslayer.model\\models\\companyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44867C7E-02D8-40A2-B2C4-0463F31B945E}|DataLayer.Model\\DataAccessLayer.Model.csproj|C:\\Users\\Anders\\source\\repos\\PizzaAPI\\datalayer.model\\models\\arsubledger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44867C7E-02D8-40A2-B2C4-0463F31B945E}|DataLayer.Model\\DataAccessLayer.Model.csproj|solutionrelative:datalayer.model\\models\\arsubledger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71013A3B-8D62-483A-AD6B-0FF1A9781CA6}|BusinessLayer.Model\\BusinessLayer.Model.csproj|C:\\Users\\Anders\\source\\repos\\PizzaAPI\\businesslayer.model\\models\\arsubledgerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71013A3B-8D62-483A-AD6B-0FF1A9781CA6}|BusinessLayer.Model\\BusinessLayer.Model.csproj|solutionrelative:businesslayer.model\\models\\arsubledgerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71013A3B-8D62-483A-AD6B-0FF1A9781CA6}|BusinessLayer.Model\\BusinessLayer.Model.csproj|C:\\Users\\Anders\\source\\repos\\PizzaAPI\\businesslayer.model\\models\\baseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71013A3B-8D62-483A-AD6B-0FF1A9781CA6}|BusinessLayer.Model\\BusinessLayer.Model.csproj|solutionrelative:businesslayer.model\\models\\baseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71013A3B-8D62-483A-AD6B-0FF1A9781CA6}|BusinessLayer.Model\\BusinessLayer.Model.csproj|C:\\Users\\Anders\\source\\repos\\PizzaAPI\\businesslayer.model\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{71013A3B-8D62-483A-AD6B-0FF1A9781CA6}|BusinessLayer.Model\\BusinessLayer.Model.csproj|solutionrelative:businesslayer.model\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71013A3B-8D62-483A-AD6B-0FF1A9781CA6}|BusinessLayer.Model\\BusinessLayer.Model.csproj|C:\\Users\\Anders\\source\\repos\\PizzaAPI\\businesslayer.model\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{71013A3B-8D62-483A-AD6B-0FF1A9781CA6}|BusinessLayer.Model\\BusinessLayer.Model.csproj|solutionrelative:businesslayer.model\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C79AC6-1500-4088-A223-1ACBF93EBF7A}|WebApi\\WebApi.csproj|C:\\Users\\Anders\\source\\repos\\PizzaAPI\\webapi\\models\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C79AC6-1500-4088-A223-1ACBF93EBF7A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C79AC6-1500-4088-A223-1ACBF93EBF7A}|WebApi\\WebApi.csproj|C:\\Users\\Anders\\source\\repos\\PizzaAPI\\webapi\\models\\companydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C79AC6-1500-4088-A223-1ACBF93EBF7A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\companydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C79AC6-1500-4088-A223-1ACBF93EBF7A}|WebApi\\WebApi.csproj|C:\\Users\\Anders\\source\\repos\\PizzaAPI\\webapi\\models\\arsubledgerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C79AC6-1500-4088-A223-1ACBF93EBF7A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\arsubledgerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Anders\\source\\repos\\PizzaAPI\\DataLayer.Model\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "DataLayer.Model\\Interfaces\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\Anders\\source\\repos\\PizzaAPI\\DataLayer.Model\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeToolTip": "DataLayer.Model\\Interfaces\\IEmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T00:00:54.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICompanyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Anders\\source\\repos\\PizzaAPI\\DataLayer.Model\\Interfaces\\ICompanyRepository.cs",
+              "RelativeDocumentMoniker": "DataLayer.Model\\Interfaces\\ICompanyRepository.cs",
+              "ToolTip": "C:\\Users\\Anders\\source\\repos\\PizzaAPI\\DataLayer.Model\\Interfaces\\ICompanyRepository.cs",
+              "RelativeToolTip": "DataLayer.Model\\Interfaces\\ICompanyRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T23:59:17.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InMemoryDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\Anders\\source\\repos\\PizzaAPI\\DataAccessLayer\\Database\\InMemoryDatabase.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Database\\InMemoryDatabase.cs",
+              "ToolTip": "C:\\Users\\Anders\\source\\repos\\PizzaAPI\\DataAccessLayer\\Database\\InMemoryDatabase.cs",
+              "RelativeToolTip": "DataAccessLayer\\Database\\InMemoryDatabase.cs",
+              "ViewState": "AQIAAJoAAAAAAAAAAAA0wKUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T23:28:24.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CompanyService.cs",
+              "DocumentMoniker": "C:\\Users\\Anders\\source\\repos\\PizzaAPI\\BusinessLayer\\Services\\CompanyService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Services\\CompanyService.cs",
+              "ToolTip": "C:\\Users\\Anders\\source\\repos\\PizzaAPI\\BusinessLayer\\Services\\CompanyService.cs",
+              "RelativeToolTip": "BusinessLayer\\Services\\CompanyService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA1wDEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T23:36:04.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICompanyService.cs",
+              "DocumentMoniker": "C:\\Users\\Anders\\source\\repos\\PizzaAPI\\BusinessLayer.Model\\Interfaces\\ICompanyService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer.Model\\Interfaces\\ICompanyService.cs",
+              "ToolTip": "C:\\Users\\Anders\\source\\repos\\PizzaAPI\\BusinessLayer.Model\\Interfaces\\ICompanyService.cs",
+              "RelativeToolTip": "BusinessLayer.Model\\Interfaces\\ICompanyService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAApwAsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T23:51:35.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Anders\\source\\repos\\PizzaAPI\\BusinessLayer.Model\\Interfaces\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer.Model\\Interfaces\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\Anders\\source\\repos\\PizzaAPI\\BusinessLayer.Model\\Interfaces\\IEmployeeService.cs",
+              "RelativeToolTip": "BusinessLayer.Model\\Interfaces\\IEmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T23:53:42.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\Anders\\source\\repos\\PizzaAPI\\DataLayer.Model\\Models\\Company.cs",
+              "RelativeDocumentMoniker": "DataLayer.Model\\Models\\Company.cs",
+              "ToolTip": "C:\\Users\\Anders\\source\\repos\\PizzaAPI\\DataLayer.Model\\Models\\Company.cs",
+              "RelativeToolTip": "DataLayer.Model\\Models\\Company.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T23:42:08.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BusinessProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Anders\\source\\repos\\PizzaAPI\\BusinessLayer\\BusinessProfile.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\BusinessProfile.cs",
+              "ToolTip": "C:\\Users\\Anders\\source\\repos\\PizzaAPI\\BusinessLayer\\BusinessProfile.cs",
+              "RelativeToolTip": "BusinessLayer\\BusinessProfile.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T23:27:56.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Anders\\source\\repos\\PizzaAPI\\DataLayer.Model\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "DataLayer.Model\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Anders\\source\\repos\\PizzaAPI\\DataLayer.Model\\Models\\Employee.cs",
+              "RelativeToolTip": "DataLayer.Model\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T23:44:54.4Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\Anders\\source\\repos\\PizzaAPI\\WebApi\\packages.config",
+              "RelativeDocumentMoniker": "WebApi\\packages.config",
+              "ToolTip": "C:\\Users\\Anders\\source\\repos\\PizzaAPI\\WebApi\\packages.config",
+              "RelativeToolTip": "WebApi\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-27T22:03:29.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Anders\\source\\repos\\PizzaAPI\\WebApi\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "WebApi\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\Anders\\source\\repos\\PizzaAPI\\WebApi\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "WebApi\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T17:40:13.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\Anders\\source\\repos\\PizzaAPI\\DataLayer.Model\\packages.config",
+              "RelativeDocumentMoniker": "DataLayer.Model\\packages.config",
+              "ToolTip": "C:\\Users\\Anders\\source\\repos\\PizzaAPI\\DataLayer.Model\\packages.config",
+              "RelativeToolTip": "DataLayer.Model\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-28T15:47:34.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Anders\\source\\repos\\PizzaAPI\\WebApi\\Web.config",
+              "RelativeDocumentMoniker": "WebApi\\Web.config",
+              "ToolTip": "C:\\Users\\Anders\\source\\repos\\PizzaAPI\\WebApi\\Web.config",
+              "RelativeToolTip": "WebApi\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-23T15:13:50.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\Anders\\source\\repos\\PizzaAPI\\WebApi\\Global.asax.cs",
+              "RelativeDocumentMoniker": "WebApi\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\Anders\\source\\repos\\PizzaAPI\\WebApi\\Global.asax.cs",
+              "RelativeToolTip": "WebApi\\Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T20:39:12.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NinjectWebCommon.cs",
+              "DocumentMoniker": "C:\\Users\\Anders\\source\\repos\\PizzaAPI\\WebApi\\App_Start\\NinjectWebCommon.cs",
+              "RelativeDocumentMoniker": "WebApi\\App_Start\\NinjectWebCommon.cs",
+              "ToolTip": "C:\\Users\\Anders\\source\\repos\\PizzaAPI\\WebApi\\App_Start\\NinjectWebCommon.cs",
+              "RelativeToolTip": "WebApi\\App_Start\\NinjectWebCommon.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAApwFYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T21:09:45.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Anders\\source\\repos\\PizzaAPI\\DataAccessLayer\\App.config",
+              "RelativeDocumentMoniker": "DataAccessLayer\\App.config",
+              "ToolTip": "C:\\Users\\Anders\\source\\repos\\PizzaAPI\\DataAccessLayer\\App.config",
+              "RelativeToolTip": "DataAccessLayer\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-28T15:29:02.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\Anders\\source\\repos\\PizzaAPI\\DataAccessLayer\\packages.config",
+              "RelativeDocumentMoniker": "DataAccessLayer\\packages.config",
+              "ToolTip": "C:\\Users\\Anders\\source\\repos\\PizzaAPI\\DataAccessLayer\\packages.config",
+              "RelativeToolTip": "DataAccessLayer\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-28T15:29:00.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppServicesProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Anders\\source\\repos\\PizzaAPI\\WebApi\\App_Start\\AppServicesProfile.cs",
+              "RelativeDocumentMoniker": "WebApi\\App_Start\\AppServicesProfile.cs",
+              "ToolTip": "C:\\Users\\Anders\\source\\repos\\PizzaAPI\\WebApi\\App_Start\\AppServicesProfile.cs",
+              "RelativeToolTip": "WebApi\\App_Start\\AppServicesProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T20:39:20.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DataEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Anders\\source\\repos\\PizzaAPI\\DataLayer.Model\\Models\\DataEntity.cs",
+              "RelativeDocumentMoniker": "DataLayer.Model\\Models\\DataEntity.cs",
+              "ToolTip": "C:\\Users\\Anders\\source\\repos\\PizzaAPI\\DataLayer.Model\\Models\\DataEntity.cs",
+              "RelativeToolTip": "DataLayer.Model\\Models\\DataEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T23:43:18.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CompanyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Anders\\source\\repos\\PizzaAPI\\BusinessLayer.Model\\Models\\CompanyInfo.cs",
+              "RelativeDocumentMoniker": "BusinessLayer.Model\\Models\\CompanyInfo.cs",
+              "ToolTip": "C:\\Users\\Anders\\source\\repos\\PizzaAPI\\BusinessLayer.Model\\Models\\CompanyInfo.cs",
+              "RelativeToolTip": "BusinessLayer.Model\\Models\\CompanyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T23:15:12.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ArSubledger.cs",
+              "DocumentMoniker": "C:\\Users\\Anders\\source\\repos\\PizzaAPI\\DataLayer.Model\\Models\\ArSubledger.cs",
+              "RelativeDocumentMoniker": "DataLayer.Model\\Models\\ArSubledger.cs",
+              "ToolTip": "C:\\Users\\Anders\\source\\repos\\PizzaAPI\\DataLayer.Model\\Models\\ArSubledger.cs",
+              "RelativeToolTip": "DataLayer.Model\\Models\\ArSubledger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T23:43:07.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ArSubledgerInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Anders\\source\\repos\\PizzaAPI\\BusinessLayer.Model\\Models\\ArSubledgerInfo.cs",
+              "RelativeDocumentMoniker": "BusinessLayer.Model\\Models\\ArSubledgerInfo.cs",
+              "ToolTip": "C:\\Users\\Anders\\source\\repos\\PizzaAPI\\BusinessLayer.Model\\Models\\ArSubledgerInfo.cs",
+              "RelativeToolTip": "BusinessLayer.Model\\Models\\ArSubledgerInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T23:16:31.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\Anders\\source\\repos\\PizzaAPI\\BusinessLayer.Model\\packages.config",
+              "RelativeDocumentMoniker": "BusinessLayer.Model\\packages.config",
+              "ToolTip": "C:\\Users\\Anders\\source\\repos\\PizzaAPI\\BusinessLayer.Model\\packages.config",
+              "RelativeToolTip": "BusinessLayer.Model\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-27T23:15:06.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Anders\\source\\repos\\PizzaAPI\\BusinessLayer.Model\\App.config",
+              "RelativeDocumentMoniker": "BusinessLayer.Model\\App.config",
+              "ToolTip": "C:\\Users\\Anders\\source\\repos\\PizzaAPI\\BusinessLayer.Model\\App.config",
+              "RelativeToolTip": "BusinessLayer.Model\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-27T23:15:08.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BaseInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Anders\\source\\repos\\PizzaAPI\\BusinessLayer.Model\\Models\\BaseInfo.cs",
+              "RelativeDocumentMoniker": "BusinessLayer.Model\\Models\\BaseInfo.cs",
+              "ToolTip": "C:\\Users\\Anders\\source\\repos\\PizzaAPI\\BusinessLayer.Model\\Models\\BaseInfo.cs",
+              "RelativeToolTip": "BusinessLayer.Model\\Models\\BaseInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T23:52:12.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\Anders\\source\\repos\\PizzaAPI\\WebApi\\Models\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "WebApi\\Models\\EmployeeDto.cs",
+              "ToolTip": "C:\\Users\\Anders\\source\\repos\\PizzaAPI\\WebApi\\Models\\EmployeeDto.cs",
+              "RelativeToolTip": "WebApi\\Models\\EmployeeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T20:41:35.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CompanyDto.cs",
+              "DocumentMoniker": "C:\\Users\\Anders\\source\\repos\\PizzaAPI\\WebApi\\Models\\CompanyDto.cs",
+              "RelativeDocumentMoniker": "WebApi\\Models\\CompanyDto.cs",
+              "ToolTip": "C:\\Users\\Anders\\source\\repos\\PizzaAPI\\WebApi\\Models\\CompanyDto.cs",
+              "RelativeToolTip": "WebApi\\Models\\CompanyDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T20:40:58.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ArSubledgerDto.cs",
+              "DocumentMoniker": "C:\\Users\\Anders\\source\\repos\\PizzaAPI\\WebApi\\Models\\ArSubledgerDto.cs",
+              "RelativeDocumentMoniker": "WebApi\\Models\\ArSubledgerDto.cs",
+              "ToolTip": "C:\\Users\\Anders\\source\\repos\\PizzaAPI\\WebApi\\Models\\ArSubledgerDto.cs",
+              "RelativeToolTip": "WebApi\\Models\\ArSubledgerDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T23:57:35.667Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

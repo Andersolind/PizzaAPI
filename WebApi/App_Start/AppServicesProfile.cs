@@ -1,5 +1,6 @@
 ﻿using AutoMapper;
 using BusinessLayer.Model.Models;
+using DataAccessLayer.Model.Models;
 using WebApi.Models;
 
 namespace WebApi
@@ -16,6 +17,7 @@ namespace WebApi
             CreateMap<BaseInfo, BaseDto>();
             CreateMap<CompanyInfo, CompanyDto>();
             CreateMap<ArSubledgerInfo, ArSubledgerDto>();
+            CreateMap<Employee, EmployeeDto>();
         }
     }
 }

@@ -84,6 +84,7 @@ namespace WebApi.App_Start
             }).InSingletonScope();
             kernel.Bind<ICompanyService>().To<CompanyService>();
             kernel.Bind<ICompanyRepository>().To<CompanyRepository>();
+            kernel.Bind<IEmployeeRepository>().To<EmployeeRepository>();
             kernel.Bind(typeof(IDbWrapper<>)).To(typeof(InMemoryDatabase<>));
         }
     }
